@@ -1,6 +1,6 @@
 # RoomKotlinCrash
 
-Sample project for reproduction of this crash:
+Sample project for reproduction of [this](https://issuetracker.google.com/issues/78328708) issue with the following crash:
 
 ```ruby
 e: [kapt] An exception occurred: java.lang.NoClassDefFoundError: org/jetbrains/kotlin/serialization/jvm/JvmProtoBufUtil
